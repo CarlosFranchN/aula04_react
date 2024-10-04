@@ -1,0 +1,5 @@
+.grid_gatos{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px; 
+}

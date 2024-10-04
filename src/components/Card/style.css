@@ -1,0 +1,10 @@
+.card {
+    flex: 2 1 calc(33.33% - 16px); /* 33.33% para 3 colunas */
+    box-sizing: border-box;
+    background-color: #f0f0f0;
+    padding: 20px;
+    margin: 8px 0;
+    text-align: center;
+    border-radius: 8px;
+    color: black;
+}
